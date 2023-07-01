@@ -1,1 +1,1 @@
-#Series of AI starter projects
+# Series of AI starter projects
